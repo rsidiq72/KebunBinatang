@@ -1,2 +1,2 @@
-public class Android {
+public class Android{
 }
